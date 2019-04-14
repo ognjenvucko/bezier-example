@@ -10,6 +10,6 @@ To run locally:
 npm run dev
 ```
 ## Live demo
-Here: TODO
+Here: http://owom.io/froobit/bezier-example/
 ## License
 This work is available under [MIT license.](./LICENSE)
